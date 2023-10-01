@@ -26,11 +26,12 @@ Imagine a birthday gift that narrates a story, a Valentine's Day pen that carrie
 - Sustainability: Wooden products are not only biodegradable but also carry an earthy aesthetic, making them a favorite for eco-conscious customers.
 
 ![](graphic-printing-screenshot.jpg)
+
 **There is a rise in demand for personalized wooden products over recent years.**
 
 <u>Our Needs</u>
 
-#### To actualize this vision, we're seeking grant funding to source the following:
+#### To actualize this vision, we're seeking suppliers and grant funding to source the following:
 
 - Laser Engraving Machine: For precise, detailed, and rapid personalizations.
 - CNC Machine: To carve intricate designs, ensuring each product stands out.
