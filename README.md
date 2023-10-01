@@ -27,7 +27,7 @@ Imagine a birthday gift that narrates a story, a Valentine's Day pen that carrie
 
 ![](graphic-printing-screenshot.jpg)
 
-**There is a rise in demand for personalized wooden products over recent years.**
+> **There is a rise in demand for personalized wooden products over recent years.**
 
 <u>Our Needs</u>
 
@@ -39,7 +39,7 @@ Imagine a birthday gift that narrates a story, a Valentine's Day pen that carrie
 
 ![](https://m.media-amazon.com/images/I/81pW0ftlMIL._AC_UF1000,1000_QL80_.jpg)
 
-**A sleek visualization of the laser engraving machine and CNC machine, with close-ups of the detailed work they can produce.**
+**A visualization of the laser engraving machine and CNC machine, with close-ups of the detailed work they can produce.**
 
 https://www.youtube.com/watch?v=EvBrQWtaWxI
 
